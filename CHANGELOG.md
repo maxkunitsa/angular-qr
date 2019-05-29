@@ -2,7 +2,7 @@
 
 
 #### Bug Fixes
-
+fds
 * binding attributes ([eb3c89ea](git://github.com/janantala/angular-qr.git/commit/eb3c89ea1c0882489e7ad2a62fc780b6ec30a4bd))
 * **gulp-changelog:** module no longer available ([7ddd57fa](git://github.com/janantala/angular-qr.git/commit/7ddd57fa17b4b5ca0c2b172780c85a1053345362))
 
