@@ -1,4 +1,4 @@
-# angular-qdasddsar v0.2.0 [![Build Status](https://travis-ci.org/janantala/angular-qr.png?branch=master)](https://travis-ci.org/janantala/angular-qr)
+# angular-qfsdfsdasddsar v0.2.0 [![Build Status](https://travis-ci.org/janantala/angular-qr.png?branch=master)](https://travis-ci.org/janantala/angular-qr)
 
 QR code generator for AngularJS
 
